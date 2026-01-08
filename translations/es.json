@@ -1,0 +1,6 @@
+{
+  "welcome_title": "Bienvenido a nuestra Demo App",
+  "login_button": "Iniciar sesión",
+  "logout_button": "Cerrar sesión",
+  "error_message": "Algo ha ido mal. Por favor, inténtelo de nuevo."
+}
